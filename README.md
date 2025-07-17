@@ -12,7 +12,6 @@ A simple content-based movie recommender built using Python and Streamlit. It su
 - [📈 Results](#results)
 - [⚙️ Approach Summary](#approach-summary)
 - [🚀 How to Use](#how-to-use)
-- [📬 Contact](#contact)
 
 ---
 
